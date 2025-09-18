@@ -6,21 +6,21 @@
     "question_text": "Un team di sviluppo sta lavorando su un'applicazione medicale dove i requisiti sono vaghi e cambiano frequentemente, e la pressione sul time-to-market è elevata. In questo contesto, quale combinazione di approccio e tecnica di test offre la massima efficacia nel mitigare i rischi di prodotto, in linea con il principio del 'testing anticipato'?",
     "question_image": "",
     "question_option": {
-      [cite_start]"a": "Un approccio 'shift-right' con un testing esaustivo a livello di sistema per garantire la conformità normativa prima del rilascio. [cite: 154]",
-      [cite_start]"b": "L'applicazione rigorosa del testing white-box (es. copertura dei rami al 100%) per garantire la robustezza del codice, posticipando il testing funzionale. [cite: 351, 571]",
-      [cite_start]"c": "L'implementazione del testing confermativo automatizzato su ogni build, focalizzandosi esclusivamente sui difetti corretti per accelerare il ciclo. [cite: 75, 356]",
-      [cite_start]"d": "Un approccio 'shift-left' [cite: 53] [cite_start]che integra il testing esplorativo [cite: 64, 598] fin dalle prime fasi per fornire feedback rapido e continuo, nonostante la carenza di specifiche formali."
+      "a": "Un approccio 'shift-right' con un testing esaustivo a livello di sistema per garantire la conformità normativa prima del rilascio. [cite: 154]",
+      "b": "L'applicazione rigorosa del testing white-box (es. copertura dei rami al 100%) per garantire la robustezza del codice, posticipando il testing funzionale. [cite: 351, 571]",
+      "c": "L'implementazione del testing confermativo automatizzato su ogni build, focalizzandosi esclusivamente sui difetti corretti per accelerare il ciclo. [cite: 75, 356]",
+      "d": "Un approccio 'shift-left' [cite: 53] che integra il testing esplorativo [cite: 64, 598] fin dalle prime fasi per fornire feedback rapido e continuo, nonostante la carenza di specifiche formali."
     },
     "answer_pdf": "syllabus_istqb.txt",
     "answer_page": [0],
     "answer_option": "d",
     "answer_option_text": {
-      [cite_start]"d": "Un approccio 'shift-left' [cite: 53] [cite_start]che integra il testing esplorativo [cite: 64, 598] fin dalle prime fasi per fornire feedback rapido e continuo, nonostante la carenza di specifiche formali."
+      "d": "Un approccio 'shift-left' [cite: 53] che integra il testing esplorativo [cite: 64, 598] fin dalle prime fasi per fornire feedback rapido e continuo, nonostante la carenza di specifiche formali."
     },
     "no_answer_option_text": {
-      [cite_start]"a": "Un approccio 'shift-right' con un testing esaustivo a livello di sistema per garantire la conformità normativa prima del rilascio. [cite: 154]",
-      [cite_start]"b": "L'applicazione rigorosa del testing white-box (es. copertura dei rami al 100%) per garantire la robustezza del codice, posticipando il testing funzionale. [cite: 351, 571]",
-      [cite_start]"c": "L'implementazione del testing confermativo automatizzato su ogni build, focalizzandosi esclusivamente sui difetti corretti per accelerare il ciclo. [cite: 75, 356]"
+      "a": "Un approccio 'shift-right' con un testing esaustivo a livello di sistema per garantire la conformità normativa prima del rilascio. [cite: 154]",
+      "b": "L'applicazione rigorosa del testing white-box (es. copertura dei rami al 100%) per garantire la robustezza del codice, posticipando il testing funzionale. [cite: 351, 571]",
+      "c": "L'implementazione del testing confermativo automatizzato su ogni build, focalizzandosi esclusivamente sui difetti corretti per accelerare il ciclo. [cite: 75, 356]"
     },
     "ambiguous": false,
     "learning_objective": "Analizzare un contesto di progetto complesso per selezionare la combinazione ottimale di approccio strategico (Shift-Left) e tecnica di test (Esplorativo) in risposta a requisiti incerti e vincoli temporali.",
@@ -34,21 +34,21 @@
     "question_text": "Un team deve valutare un componente critico per la sicurezza la cui logica algoritmica è complessa. L'obiettivo primario è ottenere il consenso tra gli esperti tecnici sulla correttezza dell'implementazione rispetto agli standard e identificare discrepanze. Quale tipo di review formale è più idoneo e perché, rispetto alle altre opzioni?",
     "question_image": "",
     "question_option": {
-      [cite_start]"a": "Un Walkthrough [cite: 92][cite_start], perché essendo condotto dall'autore, permette di educare rapidamente gli altri membri del team sulla logica implementata. [cite: 445]",
-      [cite_start]"b": "Una Ispezione [cite: 28, 449][cite_start], perché il suo focus sulla raccolta di metriche per il miglioramento del processo è l'obiettivo più importante per un componente critico. [cite: 451]",
-      [cite_start]"c": "Una Review informale[cite: 46], perché l'assenza di un processo definito permette agli esperti di concentrarsi liberamente solo sugli aspetti tecnici senza vincoli burocratici.",
-      [cite_start]"d": "Una Review tecnica [cite: 47][cite_start], perché è specificamente condotta da esperti tecnici con l'obiettivo di raggiungere il consenso e valutare la qualità rispetto a specifiche e standard. [cite: 448]"
+      "a": "Un Walkthrough [cite: 92], perché essendo condotto dall'autore, permette di educare rapidamente gli altri membri del team sulla logica implementata. [cite: 445]",
+      "b": "Una Ispezione [cite: 28, 449], perché il suo focus sulla raccolta di metriche per il miglioramento del processo è l'obiettivo più importante per un componente critico. [cite: 451]",
+      "c": "Una Review informale[cite: 46], perché l'assenza di un processo definito permette agli esperti di concentrarsi liberamente solo sugli aspetti tecnici senza vincoli burocratici.",
+      "d": "Una Review tecnica [cite: 47], perché è specificamente condotta da esperti tecnici con l'obiettivo di raggiungere il consenso e valutare la qualità rispetto a specifiche e standard. [cite: 448]"
     },
     "answer_pdf": "syllabus_istqb.txt",
     "answer_page": [0],
     "answer_option": "d",
     "answer_option_text": {
-      [cite_start]"d": "Una Review tecnica [cite: 47][cite_start], perché è specificamente condotta da esperti tecnici con l'obiettivo di raggiungere il consenso e valutare la qualità rispetto a specifiche e standard. [cite: 448]"
+      "d": "Una Review tecnica [cite: 47], perché è specificamente condotta da esperti tecnici con l'obiettivo di raggiungere il consenso e valutare la qualità rispetto a specifiche e standard. [cite: 448]"
     },
     "no_answer_option_text": {
-      [cite_start]"a": "Un Walkthrough [cite: 92][cite_start], perché essendo condotto dall'autore, permette di educare rapidamente gli altri membri del team sulla logica implementata. [cite: 445]",
-      [cite_start]"b": "Una Ispezione [cite: 28, 449][cite_start], perché il suo focus sulla raccolta di metriche per il miglioramento del processo è l'obiettivo più importante per un componente critico. [cite: 451]",
-      [cite_start]"c": "Una Review informale[cite: 46], perché l'assenza di un processo definito permette agli esperti di concentrarsi liberamente solo sugli aspetti tecnici senza vincoli burocratici."
+      "a": "Un Walkthrough [cite: 92], perché essendo condotto dall'autore, permette di educare rapidamente gli altri membri del team sulla logica implementata. [cite: 445]",
+      "b": "Una Ispezione [cite: 28, 449], perché il suo focus sulla raccolta di metriche per il miglioramento del processo è l'obiettivo più importante per un componente critico. [cite: 451]",
+      "c": "Una Review informale[cite: 46], perché l'assenza di un processo definito permette agli esperti di concentrarsi liberamente solo sugli aspetti tecnici senza vincoli burocratici."
     },
     "ambiguous": false,
     "learning_objective": "Discriminare tra diversi tipi di review formale, analizzando un obiettivo specifico (consenso tecnico) per identificare il processo di review più appropriato (Review Tecnica).",
@@ -59,24 +59,24 @@
     "question_pdf": "syllabus_istqb.txt",
     "question_page": [0],
     "question_number": "Q3",
-    [cite_start]"question_text": "In un progetto Agile che adotta DevOps e Continuous Integration, come dovrebbe essere interpretato il modello della Piramide di Test [cite: 36] [cite_start]per strutturare una strategia di regression testing [cite: 43] efficiente e robusta?",
+    "question_text": "In un progetto Agile che adotta DevOps e Continuous Integration, come dovrebbe essere interpretato il modello della Piramide di Test [cite: 36] per strutturare una strategia di regression testing [cite: 43] efficiente e robusta?",
     "question_image": "",
     "question_option": {
-      [cite_start]"a": "La maggior parte dell'effort di automazione dovrebbe concentrarsi sui test end-to-end (UI), poiché coprono la maggior parte delle funzionalità e sono più facili da comprendere per il business. [cite: 716]",
-      [cite_start]"b": "La piramide suggerisce di eseguire un numero uguale di test a ogni livello (componente, integrazione, sistema) per garantire una copertura bilanciata. [cite: 719, 720]",
-      [cite_start]"c": "La maggior parte dei test di regressione dovrebbe essere manuale e a livello di sistema, in quanto l'automazione è troppo costosa e lenta per un ciclo di CI/CD. [cite: 299, 365]",
-      [cite_start]"d": "La base della piramide, composta da test di componente/unit test automatizzati, dovrebbe costituire la suite di regressione più ampia per fornire un feedback rapido e a basso costo all'interno della pipeline di CI. [cite: 714, 299]"
+      "a": "La maggior parte dell'effort di automazione dovrebbe concentrarsi sui test end-to-end (UI), poiché coprono la maggior parte delle funzionalità e sono più facili da comprendere per il business. [cite: 716]",
+      "b": "La piramide suggerisce di eseguire un numero uguale di test a ogni livello (componente, integrazione, sistema) per garantire una copertura bilanciata. [cite: 719, 720]",
+      "c": "La maggior parte dei test di regressione dovrebbe essere manuale e a livello di sistema, in quanto l'automazione è troppo costosa e lenta per un ciclo di CI/CD. [cite: 299, 365]",
+      "d": "La base della piramide, composta da test di componente/unit test automatizzati, dovrebbe costituire la suite di regressione più ampia per fornire un feedback rapido e a basso costo all'interno della pipeline di CI. [cite: 714, 299]"
     },
     "answer_pdf": "syllabus_istqb.txt",
     "answer_page": [0],
     "answer_option": "d",
     "answer_option_text": {
-      [cite_start]"d": "La base della piramide, composta da test di componente/unit test automatizzati, dovrebbe costituire la suite di regressione più ampia per fornire un feedback rapido e a basso costo all'interno della pipeline di CI. [cite: 714, 299]"
+      "d": "La base della piramide, composta da test di componente/unit test automatizzati, dovrebbe costituire la suite di regressione più ampia per fornire un feedback rapido e a basso costo all'interno della pipeline di CI. [cite: 714, 299]"
     },
     "no_answer_option_text": {
-      [cite_start]"a": "La maggior parte dell'effort di automazione dovrebbe concentrarsi sui test end-to-end (UI), poiché coprono la maggior parte delle funzionalità e sono più facili da comprendere per il business. [cite: 716]",
-      [cite_start]"b": "La piramide suggerisce di eseguire un numero uguale di test a ogni livello (componente, integrazione, sistema) per garantire una copertura bilanciata. [cite: 719, 720]",
-      [cite_start]"c": "La maggior parte dei test di regressione dovrebbe essere manuale e a livello di sistema, in quanto l'automazione è troppo costosa e lenta per un ciclo di CI/CD. [cite: 299, 365]"
+      "a": "La maggior parte dell'effort di automazione dovrebbe concentrarsi sui test end-to-end (UI), poiché coprono la maggior parte delle funzionalità e sono più facili da comprendere per il business. [cite: 716]",
+      "b": "La piramide suggerisce di eseguire un numero uguale di test a ogni livello (componente, integrazione, sistema) per garantire una copertura bilanciata. [cite: 719, 720]",
+      "c": "La maggior parte dei test di regressione dovrebbe essere manuale e a livello di sistema, in quanto l'automazione è troppo costosa e lenta per un ciclo di CI/CD. [cite: 299, 365]"
     },
     "ambiguous": false,
     "learning_objective": "Sintetizzare i concetti di Piramide di Test, Regression Testing e Continuous Integration per definire una strategia di automazione efficace in un contesto DevOps.",
@@ -90,21 +90,21 @@
     "question_text": "Durante la pianificazione dei test, viene identificato un rischio di prodotto critico: 'Calcoli finanziari complessi potrebbero essere errati in condizioni limite'. Quale sequenza di attività, dal processo di test, rappresenta l'approccio più rigoroso e tracciabile per mitigare questo rischio specifico?",
     "question_image": "",
     "question_option": {
-      [cite_start]"a": "Esecuzione dei Test [cite: 24] [cite_start]utilizzando la tecnica Error Guessing [cite: 583][cite_start], seguita dalla stesura di un Test Completion Report[cite: 62].",
-      [cite_start]"b": "Pianificazione dei Test [cite: 35] [cite_start]con focus sul budget, seguita da Implementazione dei Test [cite: 27] [cite_start]per creare dati generici e infine Debugging [cite: 19] da parte degli sviluppatori.",
-      [cite_start]"c": "Analisi dei Test [cite: 3] [cite_start]per definire le condizioni di test relative ai calcoli, Progettazione dei Test [cite: 39] [cite_start]applicando l'Analisi ai Valori Limite [cite: 2, 490][cite_start], e mantenimento della Tracciabilità [cite: 89, 224] tra rischio, test e risultati.",
-      [cite_start]"d": "Monitoraggio dei Test [cite: 32] [cite_start]per controllare lo stato, seguito da Controllo dei Test [cite: 11] [cite_start]per aggiungere test esplorativi [cite: 64] se il tempo lo consente."
+      "a": "Esecuzione dei Test [cite: 24] utilizzando la tecnica Error Guessing [cite: 583], seguita dalla stesura di un Test Completion Report[cite: 62].",
+      "b": "Pianificazione dei Test [cite: 35] con focus sul budget, seguita da Implementazione dei Test [cite: 27] per creare dati generici e infine Debugging [cite: 19] da parte degli sviluppatori.",
+      "c": "Analisi dei Test [cite: 3] per definire le condizioni di test relative ai calcoli, Progettazione dei Test [cite: 39] applicando l'Analisi ai Valori Limite [cite: 2, 490], e mantenimento della Tracciabilità [cite: 89, 224] tra rischio, test e risultati.",
+      "d": "Monitoraggio dei Test [cite: 32] per controllare lo stato, seguito da Controllo dei Test [cite: 11] per aggiungere test esplorativi [cite: 64] se il tempo lo consente."
     },
     "answer_pdf": "syllabus_istqb.txt",
     "answer_page": [0],
     "answer_option": "c",
     "answer_option_text": {
-      [cite_start]"c": "Analisi dei Test [cite: 3] [cite_start]per definire le condizioni di test relative ai calcoli, Progettazione dei Test [cite: 39] [cite_start]applicando l'Analisi ai Valori Limite [cite: 2, 490][cite_start], e mantenimento della Tracciabilità [cite: 89, 224] tra rischio, test e risultati."
+      "c": "Analisi dei Test [cite: 3] per definire le condizioni di test relative ai calcoli, Progettazione dei Test [cite: 39] applicando l'Analisi ai Valori Limite [cite: 2, 490], e mantenimento della Tracciabilità [cite: 89, 224] tra rischio, test e risultati."
     },
     "no_answer_option_text": {
-      [cite_start]"a": "Esecuzione dei Test [cite: 24] [cite_start]utilizzando la tecnica Error Guessing [cite: 583][cite_start], seguita dalla stesura di un Test Completion Report[cite: 62].",
-      [cite_start]"b": "Pianificazione dei Test [cite: 35] [cite_start]con focus sul budget, seguita da Implementazione dei Test [cite: 27] [cite_start]per creare dati generici e infine Debugging [cite: 19] da parte degli sviluppatori.",
-      [cite_start]"d": "Monitoraggio dei Test [cite: 32] [cite_start]per controllare lo stato, seguito da Controllo dei Test [cite: 11] [cite_start]per aggiungere test esplorativi [cite: 64] se il tempo lo consente."
+      "a": "Esecuzione dei Test [cite: 24] utilizzando la tecnica Error Guessing [cite: 583], seguita dalla stesura di un Test Completion Report[cite: 62].",
+      "b": "Pianificazione dei Test [cite: 35] con focus sul budget, seguita da Implementazione dei Test [cite: 27] per creare dati generici e infine Debugging [cite: 19] da parte degli sviluppatori.",
+      "d": "Monitoraggio dei Test [cite: 32] per controllare lo stato, seguito da Controllo dei Test [cite: 11] per aggiungere test esplorativi [cite: 64] se il tempo lo consente."
     },
     "ambiguous": false,
     "learning_objective": "Sintetizzare le fasi del processo di test (Analisi, Progettazione) e le tecniche specifiche (BVA) per costruire una strategia di mitigazione mirata per un rischio di prodotto identificato, enfatizzando l'importanza della tracciabilità.",
@@ -115,24 +115,24 @@
     "question_pdf": "syllabus_istqb.txt",
     "question_page": [0],
     "question_number": "Q5",
-    [cite_start]"question_text": "Durante il testing di sistema, si osserva un 'failure'[cite: 25]: un utente con privilegi standard riesce ad accedere a una funzione amministrativa. [cite_start]Un'analisi successiva rivela che un 'difetto' [cite: 22] nel codice è causato da un operatore logico errato (OR invece di AND). [cite_start]Quale delle seguenti opzioni descrive più plausibilmente l''errore' umano [cite: 23] [cite_start]e la 'root cause' [cite: 52] che hanno portato a questa situazione?",
+    "question_text": "Durante il testing di sistema, si osserva un 'failure'[cite: 25]: un utente con privilegi standard riesce ad accedere a una funzione amministrativa. Un'analisi successiva rivela che un 'difetto' [cite: 22] nel codice è causato da un operatore logico errato (OR invece di AND). Quale delle seguenti opzioni descrive più plausibilmente l''errore' umano [cite: 23] e la 'root cause' [cite: 52] che hanno portato a questa situazione?",
     "question_image": "",
     "question_option": {
-      "a": "Errore: il tester ha eseguito il test case sbagliato. [cite_start]Root Cause: l'ambiente di test non era configurato correttamente. [cite: 196]",
+      "a": "Errore: il tester ha eseguito il test case sbagliato. Root Cause: l'ambiente di test non era configurato correttamente. [cite: 196]",
       "b": "Errore: l'utente ha cliccato sul link sbagliato. Root Cause: la documentazione utente era poco chiara.",
-      "c": "Errore: lo sviluppatore ha digitato un operatore logico errato. [cite_start]Root Cause: una pressione eccessiva sui tempi di consegna ha impedito un'adeguata code review. [cite: 140]",
-      "d": "Errore: il sistema ha generato un'eccezione non gestita. [cite_start]Root Cause: un difetto nel firmware del server. [cite: 146]"
+      "c": "Errore: lo sviluppatore ha digitato un operatore logico errato. Root Cause: una pressione eccessiva sui tempi di consegna ha impedito un'adeguata code review. [cite: 140]",
+      "d": "Errore: il sistema ha generato un'eccezione non gestita. Root Cause: un difetto nel firmware del server. [cite: 146]"
     },
     "answer_pdf": "syllabus_istqb.txt",
     "answer_page": [0],
     "answer_option": "c",
     "answer_option_text": {
-      "c": "Errore: lo sviluppatore ha digitato un operatore logico errato. [cite_start]Root Cause: una pressione eccessiva sui tempi di consegna ha impedito un'adeguata code review. [cite: 140]"
+      "c": "Errore: lo sviluppatore ha digitato un operatore logico errato. Root Cause: una pressione eccessiva sui tempi di consegna ha impedito un'adeguata code review. [cite: 140]"
     },
     "no_answer_option_text": {
-      "a": "Errore: il tester ha eseguito il test case sbagliato. [cite_start]Root Cause: l'ambiente di test non era configurato correttamente. [cite: 196]",
+      "a": "Errore: il tester ha eseguito il test case sbagliato. Root Cause: l'ambiente di test non era configurato correttamente. [cite: 196]",
       "b": "Errore: l'utente ha cliccato sul link sbagliato. Root Cause: la documentazione utente era poco chiara.",
-      "d": "Errore: il sistema ha generato un'eccezione non gestita. [cite_start]Root Cause: un difetto nel firmware del server. [cite: 146]"
+      "d": "Errore: il sistema ha generato un'eccezione non gestita. Root Cause: un difetto nel firmware del server. [cite: 146]"
     },
     "ambiguous": false,
     "learning_objective": "Analizzare una catena causale di un problema di qualità, distinguendo correttamente tra i concetti interconnessi di Failure, Difetto, Errore e Root Cause.",
@@ -143,24 +143,24 @@
     "question_pdf": "syllabus_istqb.txt",
     "question_page": [0],
     "question_number": "Q6",
-    [cite_start]"question_text": "Un progetto ottiene il 100% di copertura dei rami [cite: 14, 571] durante il testing di componente. Tuttavia, dopo il rilascio, gli utenti lamentano che il sistema è estremamente lento e inusabile sotto carichi di lavoro moderati. Quale principio del testing spiega meglio questo scenario e quale tipo di test avrebbe potuto prevenire il problema?",
+    "question_text": "Un progetto ottiene il 100% di copertura dei rami [cite: 14, 571] durante il testing di componente. Tuttavia, dopo il rilascio, gli utenti lamentano che il sistema è estremamente lento e inusabile sotto carichi di lavoro moderati. Quale principio del testing spiega meglio questo scenario e quale tipo di test avrebbe potuto prevenire il problema?",
     "question_image": "",
     "question_option": {
-      [cite_start]"a": "Principio: 'I difetti si raggruppano in cluster'[cite: 160]. [cite_start]Tipo di test: Testing di Manutenzione [cite: 83] per ottimizzare i cluster di codice problematici.",
-      [cite_start]"b": "Principio: 'Il testing esaustivo è impossibile'[cite: 154]. [cite_start]Tipo di test: Testing della Tabella delle Decisioni [cite: 76] per coprire più combinazioni logiche.",
-      [cite_start]"c": "Principio: 'L'assenza di difetti è un’idea sbagliata'[cite: 167]. [cite_start]Tipo di test: Testing non funzionale (efficienza delle prestazioni) [cite: 66, 341] per validare il comportamento del sistema sotto carico.",
-      [cite_start]"d": "Principio: 'Il testing mostra la presenza di difetti, non la loro assenza'[cite: 151]. [cite_start]Tipo di test: Testing statico [cite: 70] tramite ispezioni del codice per trovare inefficienze."
+      "a": "Principio: 'I difetti si raggruppano in cluster'[cite: 160]. Tipo di test: Testing di Manutenzione [cite: 83] per ottimizzare i cluster di codice problematici.",
+      "b": "Principio: 'Il testing esaustivo è impossibile'[cite: 154]. Tipo di test: Testing della Tabella delle Decisioni [cite: 76] per coprire più combinazioni logiche.",
+      "c": "Principio: 'L'assenza di difetti è un’idea sbagliata'[cite: 167]. Tipo di test: Testing non funzionale (efficienza delle prestazioni) [cite: 66, 341] per validare il comportamento del sistema sotto carico.",
+      "d": "Principio: 'Il testing mostra la presenza di difetti, non la loro assenza'[cite: 151]. Tipo di test: Testing statico [cite: 70] tramite ispezioni del codice per trovare inefficienze."
     },
     "answer_pdf": "syllabus_istqb.txt",
     "answer_page": [0],
     "answer_option": "c",
     "answer_option_text": {
-      [cite_start]"c": "Principio: 'L'assenza di difetti è un’idea sbagliata'[cite: 167]. [cite_start]Tipo di test: Testing non funzionale (efficienza delle prestazioni) [cite: 66, 341] per validare il comportamento del sistema sotto carico."
+      "c": "Principio: 'L'assenza di difetti è un’idea sbagliata'[cite: 167]. Tipo di test: Testing non funzionale (efficienza delle prestazioni) [cite: 66, 341] per validare il comportamento del sistema sotto carico."
     },
     "no_answer_option_text": {
-      [cite_start]"a": "Principio: 'I difetti si raggruppano in cluster'[cite: 160]. [cite_start]Tipo di test: Testing di Manutenzione [cite: 83] per ottimizzare i cluster di codice problematici.",
-      [cite_start]"b": "Principio: 'Il testing esaustivo è impossibile'[cite: 154]. [cite_start]Tipo di test: Testing della Tabella delle Decisioni [cite: 76] per coprire più combinazioni logiche.",
-      [cite_start]"d": "Principio: 'Il testing mostra la presenza di difetti, non la loro assenza'[cite: 151]. [cite_start]Tipo di test: Testing statico [cite: 70] tramite ispezioni del codice per trovare inefficienze."
+      "a": "Principio: 'I difetti si raggruppano in cluster'[cite: 160]. Tipo di test: Testing di Manutenzione [cite: 83] per ottimizzare i cluster di codice problematici.",
+      "b": "Principio: 'Il testing esaustivo è impossibile'[cite: 154]. Tipo di test: Testing della Tabella delle Decisioni [cite: 76] per coprire più combinazioni logiche.",
+      "d": "Principio: 'Il testing mostra la presenza di difetti, non la loro assenza'[cite: 151]. Tipo di test: Testing statico [cite: 70] tramite ispezioni del codice per trovare inefficienze."
     },
     "ambiguous": false,
     "learning_objective": "Valutare uno scenario di fallimento post-rilascio per identificare il principio del testing più pertinente ('Absence of errors fallacy') e il tipo di test (non funzionale) che è stato trascurato, dimostrando una comprensione olistica della qualità.",
@@ -174,21 +174,21 @@
     "question_text": "Un'organizzazione sta pianificando il testing per un prodotto software completamente nuovo, senza precedenti storici. Il team di sviluppo è composto da esperti eterogenei. Si deve fornire una stima dell'effort di test. Quale tecnica di stima sarebbe più appropriata e perché le altre sono meno adatte in questo contesto?",
     "question_image": "",
     "question_option": {
-      [cite_start]"a": "Stima basata su valori statistici (metrics-based)[cite: 678], perché i dati di progetti passati, anche se non correlati, forniscono una baseline oggettiva.",
-      [cite_start]"b": "Estrapolazione[cite: 682], perché permette di prevedere l'effort totale basandosi sui dati raccolti nella prima iterazione di test.",
-      [cite_start]"c": "Wideband Delphi (expert-based)[cite: 686], perché sfrutta l'esperienza collettiva degli esperti per raggiungere un consenso su un problema incerto, mitigando i bias individuali attraverso un processo iterativo.",
-      [cite_start]"d": "Planning Poker [cite: 690] applicato solo dal Test Manager, per centralizzare la decisione e garantire una stima rapida e coerente."
+      "a": "Stima basata su valori statistici (metrics-based)[cite: 678], perché i dati di progetti passati, anche se non correlati, forniscono una baseline oggettiva.",
+      "b": "Estrapolazione[cite: 682], perché permette di prevedere l'effort totale basandosi sui dati raccolti nella prima iterazione di test.",
+      "c": "Wideband Delphi (expert-based)[cite: 686], perché sfrutta l'esperienza collettiva degli esperti per raggiungere un consenso su un problema incerto, mitigando i bias individuali attraverso un processo iterativo.",
+      "d": "Planning Poker [cite: 690] applicato solo dal Test Manager, per centralizzare la decisione e garantire una stima rapida e coerente."
     },
     "answer_pdf": "syllabus_istqb.txt",
     "answer_page": [0],
     "answer_option": "c",
     "answer_option_text": {
-      [cite_start]"c": "Wideband Delphi (expert-based)[cite: 686], perché sfrutta l'esperienza collettiva degli esperti per raggiungere un consenso su un problema incerto, mitigando i bias individuali attraverso un processo iterativo."
+      "c": "Wideband Delphi (expert-based)[cite: 686], perché sfrutta l'esperienza collettiva degli esperti per raggiungere un consenso su un problema incerto, mitigando i bias individuali attraverso un processo iterativo."
     },
     "no_answer_option_text": {
-      [cite_start]"a": "Stima basata su valori statistici (metrics-based)[cite: 678], perché i dati di progetti passati, anche se non correlati, forniscono una baseline oggettiva.",
-      [cite_start]"b": "Estrapolazione[cite: 682], perché permette di prevedere l'effort totale basandosi sui dati raccolti nella prima iterazione di test.",
-      [cite_start]"d": "Planning Poker [cite: 690] applicato solo dal Test Manager, per centralizzare la decisione e garantire una stima rapida e coerente."
+      "a": "Stima basata su valori statistici (metrics-based)[cite: 678], perché i dati di progetti passati, anche se non correlati, forniscono una baseline oggettiva.",
+      "b": "Estrapolazione[cite: 682], perché permette di prevedere l'effort totale basandosi sui dati raccolti nella prima iterazione di test.",
+      "d": "Planning Poker [cite: 690] applicato solo dal Test Manager, per centralizzare la decisione e garantire una stima rapida e coerente."
     },
     "ambiguous": false,
     "learning_objective": "Valutare la idoneità di diverse tecniche di stima del test in un contesto specifico (prodotto nuovo, assenza di dati storici) e giustificare la scelta della tecnica più adatta (Wideband Delphi).",
@@ -202,21 +202,21 @@
     "question_text": "In un modello di sviluppo sequenziale, l'analisi dei test per il testing di sistema inizia durante la fase di progettazione del sistema. Allo stesso tempo, il team di QA propone di introdurre l'Acceptance Test-Driven Development (ATDD). Qual è la principale contraddizione o sinergia tra queste due pratiche in questo specifico modello di sviluppo?",
     "question_image": "",
     "question_option": {
-      [cite_start]"a": "C'è una forte sinergia, poiché l'ATDD [cite: 1, 630] fornisce test case concreti che possono essere usati direttamente nell'analisi dei test a livello di sistema.",
-      [cite_start]"b": "C'è una contraddizione fondamentale: l'ATDD è un approccio 'test-first' [cite: 630] [cite_start]che guida lo sviluppo, intrinsecamente legato ai cicli iterativi, e si scontra con la natura sequenziale del modello dove lo sviluppo precede il testing. [cite: 282]",
-      [cite_start]"c": "Non c'è né sinergia né contraddizione, perché l'analisi dei test si occupa di 'cosa' testare[cite: 188], mentre l'ATDD si occupa di 'come' automatizzare.",
-      [cite_start]"d": "La sinergia sta nel fatto che entrambi gli approcci si basano sui criteri di accettazione [cite: 624][cite_start], ma l'ATDD è applicabile solo al testing di accettazione [cite: 78] e non al testing di sistema."
+      "a": "C'è una forte sinergia, poiché l'ATDD [cite: 1, 630] fornisce test case concreti che possono essere usati direttamente nell'analisi dei test a livello di sistema.",
+      "b": "C'è una contraddizione fondamentale: l'ATDD è un approccio 'test-first' [cite: 630] che guida lo sviluppo, intrinsecamente legato ai cicli iterativi, e si scontra con la natura sequenziale del modello dove lo sviluppo precede il testing. [cite: 282]",
+      "c": "Non c'è né sinergia né contraddizione, perché l'analisi dei test si occupa di 'cosa' testare[cite: 188], mentre l'ATDD si occupa di 'come' automatizzare.",
+      "d": "La sinergia sta nel fatto che entrambi gli approcci si basano sui criteri di accettazione [cite: 624], ma l'ATDD è applicabile solo al testing di accettazione [cite: 78] e non al testing di sistema."
     },
     "answer_pdf": "syllabus_istqb.txt",
     "answer_page": [0],
     "answer_option": "b",
     "answer_option_text": {
-      [cite_start]"b": "C'è una contraddizione fondamentale: l'ATDD è un approccio 'test-first' [cite: 630] [cite_start]che guida lo sviluppo, intrinsecamente legato ai cicli iterativi, e si scontra con la natura sequenziale del modello dove lo sviluppo precede il testing. [cite: 282]"
+      "b": "C'è una contraddizione fondamentale: l'ATDD è un approccio 'test-first' [cite: 630] che guida lo sviluppo, intrinsecamente legato ai cicli iterativi, e si scontra con la natura sequenziale del modello dove lo sviluppo precede il testing. [cite: 282]"
     },
     "no_answer_option_text": {
-      [cite_start]"a": "C'è una forte sinergia, poiché l'ATDD [cite: 1, 630] fornisce test case concreti che possono essere usati direttamente nell'analisi dei test a livello di sistema.",
-      [cite_start]"c": "Non c'è né sinergia né contraddizione, perché l'analisi dei test si occupa di 'cosa' testare[cite: 188], mentre l'ATDD si occupa di 'come' automatizzare.",
-      [cite_start]"d": "La sinergia sta nel fatto che entrambi gli approcci si basano sui criteri di accettazione [cite: 624][cite_start], ma l'ATDD è applicabile solo al testing di accettazione [cite: 78] e non al testing di sistema."
+      "a": "C'è una forte sinergia, poiché l'ATDD [cite: 1, 630] fornisce test case concreti che possono essere usati direttamente nell'analisi dei test a livello di sistema.",
+      "c": "Non c'è né sinergia né contraddizione, perché l'analisi dei test si occupa di 'cosa' testare[cite: 188], mentre l'ATDD si occupa di 'come' automatizzare.",
+      "d": "La sinergia sta nel fatto che entrambi gli approcci si basano sui criteri di accettazione [cite: 624], ma l'ATDD è applicabile solo al testing di accettazione [cite: 78] e non al testing di sistema."
     },
     "ambiguous": false,
     "learning_objective": "Valutare la compatibilità di una pratica di test (ATDD) con un modello di ciclo di vita dello sviluppo software (Sequenziale), identificando le contraddizioni concettuali e operative.",
@@ -227,24 +227,24 @@
     "question_pdf": "syllabus_istqb.txt",
     "question_page": [0],
     "question_number": "Q9",
-    "question_text": "Un sistema di e-commerce deve integrarsi con un gateway di pagamento esterno e un servizio di logistica di terze parti. [cite_start]Durante il testing di integrazione dei sistemi[cite: 82, 332], qual è la strategia più efficace per isolare e verificare le interfacce, considerando che i sistemi esterni sono instabili e non sempre disponibili?",
+    "question_text": "Un sistema di e-commerce deve integrarsi con un gateway di pagamento esterno e un servizio di logistica di terze parti. Durante il testing di integrazione dei sistemi[cite: 82, 332], qual è la strategia più efficace per isolare e verificare le interfacce, considerando che i sistemi esterni sono instabili e non sempre disponibili?",
     "question_image": "",
     "question_option": {
       "a": "Eseguire solo testing end-to-end con i sistemi reali, accettando i ritardi causati dalla loro indisponibilità per avere test più realistici.",
-      [cite_start]"b": "Utilizzare stub, driver, simulatori e virtualizzazioni di servizi [cite: 221] per emulare il comportamento dei sistemi esterni, permettendo un testing di integrazione controllato e ripetibile indipendentemente dalla disponibilità dei servizi reali.",
-      [cite_start]"c": "Focalizzarsi esclusivamente sul testing di componente [cite: 79, 324] dei moduli interni, assumendo che le interfacce funzioneranno correttamente una volta connessi i sistemi reali.",
-      [cite_start]"d": "Applicare il testing black-box [cite: 74] basato esclusivamente sulle specifiche delle API, senza eseguire alcun test dinamico fino a quando tutti i sistemi non saranno stabili."
+      "b": "Utilizzare stub, driver, simulatori e virtualizzazioni di servizi [cite: 221] per emulare il comportamento dei sistemi esterni, permettendo un testing di integrazione controllato e ripetibile indipendentemente dalla disponibilità dei servizi reali.",
+      "c": "Focalizzarsi esclusivamente sul testing di componente [cite: 79, 324] dei moduli interni, assumendo che le interfacce funzioneranno correttamente una volta connessi i sistemi reali.",
+      "d": "Applicare il testing black-box [cite: 74] basato esclusivamente sulle specifiche delle API, senza eseguire alcun test dinamico fino a quando tutti i sistemi non saranno stabili."
     },
     "answer_pdf": "syllabus_istqb.txt",
     "answer_page": [0],
     "answer_option": "b",
     "answer_option_text": {
-      [cite_start]"b": "Utilizzare stub, driver, simulatori e virtualizzazioni di servizi [cite: 221] per emulare il comportamento dei sistemi esterni, permettendo un testing di integrazione controllato e ripetibile indipendentemente dalla disponibilità dei servizi reali."
+      "b": "Utilizzare stub, driver, simulatori e virtualizzazioni di servizi [cite: 221] per emulare il comportamento dei sistemi esterni, permettendo un testing di integrazione controllato e ripetibile indipendentemente dalla disponibilità dei servizi reali."
     },
     "no_answer_option_text": {
       "a": "Eseguire solo testing end-to-end con i sistemi reali, accettando i ritardi causati dalla loro indisponibilità per avere test più realistici.",
-      [cite_start]"c": "Focalizzarsi esclusivamente sul testing di componente [cite: 79, 324] dei moduli interni, assumendo che le interfacce funzioneranno correttamente una volta connessi i sistemi reali.",
-      [cite_start]"d": "Applicare il testing black-box [cite: 74] basato esclusivamente sulle specifiche delle API, senza eseguire alcun test dinamico fino a quando tutti i sistemi non saranno stabili."
+      "c": "Focalizzarsi esclusivamente sul testing di componente [cite: 79, 324] dei moduli interni, assumendo che le interfacce funzioneranno correttamente una volta connessi i sistemi reali.",
+      "d": "Applicare il testing black-box [cite: 74] basato esclusivamente sulle specifiche delle API, senza eseguire alcun test dinamico fino a quando tutti i sistemi non saranno stabili."
     },
     "ambiguous": false,
     "learning_objective": "Sintetizzare i concetti di testing di integrazione dei sistemi e l'uso di elementi dell'ambiente di test (stub, simulatori) per proporre una soluzione pratica a un problema comune di disponibilità dei sistemi esterni.",
@@ -255,24 +255,24 @@
     "question_pdf": "syllabus_istqb.txt",
     "question_page": [0],
     "question_number": "Q10",
-    [cite_start]"question_text": "Un'organizzazione decide di abbandonare l'indipendenza del testing, integrando i tester nei team di sviluppo secondo un 'approccio whole-team'[cite: 256]. Quale delle seguenti rappresenta la più significativa riallocazione delle responsabilità del ruolo di Test Management e del ruolo di Testing in questo nuovo contesto?",
+    "question_text": "Un'organizzazione decide di abbandonare l'indipendenza del testing, integrando i tester nei team di sviluppo secondo un 'approccio whole-team'[cite: 256]. Quale delle seguenti rappresenta la più significativa riallocazione delle responsabilità del ruolo di Test Management e del ruolo di Testing in questo nuovo contesto?",
     "question_image": "",
     "question_option": {
-      [cite_start]"a": "Il ruolo di Test Management [cite: 235] viene eliminato e tutte le attività di pianificazione e controllo sono delegate ai singoli sviluppatori, mentre il ruolo di Testing si concentra solo sull'automazione.",
-      [cite_start]"b": "Il ruolo di Testing assume la responsabilità della pianificazione [cite: 35] [cite_start]e del reporting[cite: 69], mentre il Test Manager si occupa solo dell'esecuzione manuale dei test.",
-      [cite_start]"c": "Il Test Manager mantiene un ruolo di coordinamento trasversale per strategie e processi a livello organizzativo [cite: 239][cite_start], mentre il team Agile gestisce la pianificazione dell'iterazione e il ruolo di Testing si focalizza sull'analisi, progettazione ed esecuzione dei test in collaborazione con gli sviluppatori[cite: 241, 261].",
-      [cite_start]"d": "L'approccio whole-team implica che non esistono più ruoli specializzati; pertanto, sia le attività di Test Management sia quelle di Testing vengono eseguite indistintamente da qualsiasi membro del team. [cite: 257]"
+      "a": "Il ruolo di Test Management [cite: 235] viene eliminato e tutte le attività di pianificazione e controllo sono delegate ai singoli sviluppatori, mentre il ruolo di Testing si concentra solo sull'automazione.",
+      "b": "Il ruolo di Testing assume la responsabilità della pianificazione [cite: 35] e del reporting[cite: 69], mentre il Test Manager si occupa solo dell'esecuzione manuale dei test.",
+      "c": "Il Test Manager mantiene un ruolo di coordinamento trasversale per strategie e processi a livello organizzativo [cite: 239], mentre il team Agile gestisce la pianificazione dell'iterazione e il ruolo di Testing si focalizza sull'analisi, progettazione ed esecuzione dei test in collaborazione con gli sviluppatori[cite: 241, 261].",
+      "d": "L'approccio whole-team implica che non esistono più ruoli specializzati; pertanto, sia le attività di Test Management sia quelle di Testing vengono eseguite indistintamente da qualsiasi membro del team. [cite: 257]"
     },
     "answer_pdf": "syllabus_istqb.txt",
     "answer_page": [0],
     "answer_option": "c",
     "answer_option_text": {
-      [cite_start]"c": "Il Test Manager mantiene un ruolo di coordinamento trasversale per strategie e processi a livello organizzativo [cite: 239][cite_start], mentre il team Agile gestisce la pianificazione dell'iterazione e il ruolo di Testing si focalizza sull'analisi, progettazione ed esecuzione dei test in collaborazione con gli sviluppatori[cite: 241, 261]."
+      "c": "Il Test Manager mantiene un ruolo di coordinamento trasversale per strategie e processi a livello organizzativo [cite: 239], mentre il team Agile gestisce la pianificazione dell'iterazione e il ruolo di Testing si focalizza sull'analisi, progettazione ed esecuzione dei test in collaborazione con gli sviluppatori[cite: 241, 261]."
     },
     "no_answer_option_text": {
-      [cite_start]"a": "Il ruolo di Test Management [cite: 235] viene eliminato e tutte le attività di pianificazione e controllo sono delegate ai singoli sviluppatori, mentre il ruolo di Testing si concentra solo sull'automazione.",
-      [cite_start]"b": "Il ruolo di Testing assume la responsabilità della pianificazione [cite: 35] [cite_start]e del reporting[cite: 69], mentre il Test Manager si occupa solo dell'esecuzione manuale dei test.",
-      [cite_start]"d": "L'approccio whole-team implica che non esistono più ruoli specializzati; pertanto, sia le attività di Test Management sia quelle di Testing vengono eseguite indistintamente da qualsiasi membro del team. [cite: 257]"
+      "a": "Il ruolo di Test Management [cite: 235] viene eliminato e tutte le attività di pianificazione e controllo sono delegate ai singoli sviluppatori, mentre il ruolo di Testing si concentra solo sull'automazione.",
+      "b": "Il ruolo di Testing assume la responsabilità della pianificazione [cite: 35] e del reporting[cite: 69], mentre il Test Manager si occupa solo dell'esecuzione manuale dei test.",
+      "d": "L'approccio whole-team implica che non esistono più ruoli specializzati; pertanto, sia le attività di Test Management sia quelle di Testing vengono eseguite indistintamente da qualsiasi membro del team. [cite: 257]"
     },
     "ambiguous": false,
     "learning_objective": "Valutare l'impatto di un cambiamento organizzativo (adozione del 'whole-team approach') sulla distribuzione delle responsabilità dei ruoli di Test Management e Testing, sintetizzando le informazioni del syllabus sui contesti Agile.",
